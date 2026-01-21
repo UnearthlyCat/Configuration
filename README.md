@@ -1,8 +1,8 @@
 # Configuration
 Framework for easy configurations creation
 
-*The goal of this project is to provide a simple and unified way to work with
-configuration files *
+The goal of this project is to provide a simple and unified way to work with
+configuration files
 
 # Why?
 
